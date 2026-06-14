@@ -6,4 +6,4 @@
 <strong>• Kotlin bridge</strong>
 <br>
 <hr>
-&copy; 2026 GabrihhDEV
+<p>&copy; 2026 GabrihhDEV</p>
