@@ -5,17 +5,17 @@
 
 <details>
   <summary><strong>Webview system</strong></summary>
-  <p>Used to render interfaces using the system’s native WebView engine.</p>
+  <p><i>Used to render interfaces using the system’s native WebView engine.</i></p>
 </details>
 
 <details>
   <summary><strong>Hardware accelerator</strong></summary>
-  <p>Uses GPU acceleration to improve performance and rendering speed.</p>
+  <p><i>Uses GPU acceleration to improve performance and rendering speed.</i></p>
 </details>
 
 <details>
   <summary><strong>Kotlin bridge</strong></summary>
-  <p>Handles communication between JavaScript/Web and native Kotlin code, and is also used to improve overall system performance and execution speed.</p>
+  <p><i>Handles communication between JavaScript/Web and native Kotlin code, and is also used to improve overall system performance and execution speed.</i></p>
 </details>
 
 <hr>
